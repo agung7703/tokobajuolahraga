@@ -1,0 +1,170 @@
+{
+  "kategori": [
+    {
+      "id": 1,
+      "nama": "Tas Slempang Pria"
+    },
+    {
+      "id": 2,
+      "nama": "Tas Slempang Wanita"
+    },
+    {
+      "id": 3,
+      "nama": "Celana Treking Pria"
+    },
+    {
+      "id": 4,
+      "nama": "Celana Cargo Pendek Pria"
+    },
+    {
+      "id": 5,
+      "nama": "Pakaian Panjang Wanita"
+    }
+  ],
+  "produk": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Tas Selempang Pria | Tas Pria Sling Bag | Tas Perahu",
+      "harga": 61500,
+      "is_ready": true,
+      "thumbnail": "tas1.jpg",
+      "gambar1": "tas2.jpg",
+      "gambar2": "tas3.jpg",
+      "gambar3": "tas4.jpg",
+      "gambar4": "tas5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/tas-selempang-pria-tas-pria-sling-bag-tas-perahu-hitam?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": " Warna : Hitam, Navy | TAS SLING BAG 100% BUATAN LOKAL KUALITAS BEST QUALITY, Tas keren multifungsi trendy bisa digunakan di berbagai keadaan dan situasi, Bahan tebal dan berkualitas bagus, Terlihat modern dan keren saat di pakai, Dapat digunakan oleh pria dan wanita, Cocok di pakai saat berpergian, camping, bersepeda, hiking maupun ke mall dan kegiatan sehari-hari, Praktis menyimpan aksesoris Anda saat bepergian seperti dompet, HP, Power Bank, Kabel, Uang, Headset, dll. | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 1,
+        "nama": "Tas Slempang Pria"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Tas Slempang Pria | Waterproof Trendy Waistbag Pria Anti Air | Tas Pinggan",
+      "harga": 110000,
+      "is_ready": true,
+      "thumbnail": "tasw1.jpg",
+      "gambar1": "tasw2.jpg",
+      "gambar2": "tasw3.jpg",
+      "gambar3": "tasw4.jpg",
+      "gambar4": "tasw5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/tas-slempang-pria-waterproof-trendy-waistbag-pria-anti-air-tas-pinggan-abu-abu?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": "Warna : Abu, Hitam, Navy, Army | Produk dari Tas Slempang Pria Waterproof Trendy Waistbag Pria Anti Air Tas Pinggang Pria wanita Terbaru Slingbag Tas Pinggang Praktis Trendy, Ketampanan akan lebih terlihat jika memakai tas ini di jamin Model Kekinian, Cocok untuk dibawa saat hiking, camping maupun kegiatan outdoor lainnya, Bisa juga digunakan untuk kegiatan sehari-hari, jalan-jalan, outbond, lebih terlihat keren, Untuk keperluan penyimpanan barang pribadi Anda agar tidak tercecer dan lebih terorganize, Untuk keamanan dan kerapihan peralatan pribadi Anda, Bisa untuk menyimpan dompet, uang, HP, powerbank, obat2an pribadi, dll. | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 1,
+        "nama": "Tas Slempang Pria"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Tas Dinosaurus Terbaru | Shoulder Bag Lucu Selempang Kartun Untuk Wanita",
+      "harga": 100000,
+      "is_ready": true,
+      "thumbnail": "dino1.jpg",
+      "gambar1": "dino2.jpg",
+      "gambar2": "dino3.jpg",
+      "gambar3": "dino4.jpg",
+      "gambar4": "dino5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/tas-dinosaurus-terbaru-shoulder-bag-lucu-selempang-kartun-untuk-wanita-dino-hijau?extParam=whid%3D11263751%26src%3Dshop",
+      "deskripsi": "Informasi ukuran Bahan: Canvas, Dimensi (P x L x T cm): 14x18x23cm | Karena metode pengukuran yang berbeda,kesalahan 1-3cm mungkin terjadi. Karena alasan perbedaan pencahayaan saat pemotretan dan monitor perbedaan mungkin terjadi mohon di lihat produk asli. | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 2,
+        "nama": "Tas Slempang Wanita"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Tas Selempang Wanita VIXIE | Tas Slempang Olahraga | Tas Keren Kekini",
+      "harga": 100000,
+      "is_ready": true,
+      "thumbnail": "taswanita1.jpg",
+      "gambar1": "taswanita2.jpg",
+      "gambar2": "taswanita3.jpg",
+      "gambar3": "taswanita4.jpg",
+      "gambar4": "taswanita5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/tas-selempang-pria-wanita-vixie-tas-slempang-olahraga-tas-keren-kekini?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": "TAS SELEMPANG PRIA WANITA VIXIE WATERPROOF ANTI AIR TAS KEREN KEKINIAN TRENDY | Kualitas bahan premium, Bisa di pakai bolak balik, Tas Selempang Pria Waterproof, dengan resleting waterproof, Tas yang sedang Viral saat ini dan paling banyak di cari, Kualitas terjamin dengan bahan anti air, Desainnya yg trendy dan stylish di peruntukan buat kaum muda yang dinamis dan yang ingin terlihat modis, Kualitas tas yang bagus dan harga terjangkau, Tas keren multifungsi trendy bisa digunakan di berbagai keadaan dan situasi, Bahan tebal dan berkualitas bagus, Terlihat modern dan keren saat di pakai, Cocok di pakai saat berpergian, camping, hiking maupun ke mall. | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 2,
+        "nama": "Tas Slempang Wanita"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Celana Gunung Pria Waterproof | Celana Pria Outdoor Hiking Adventure Quickdry | Celana Gunung Trekking",
+      "harga": 150000,
+      "is_ready": true,
+      "thumbnail": "trak1.jpg",
+      "gambar1": "trak2.jpg",
+      "gambar2": "trak3.jpg",
+      "gambar3": "trak4.jpg",
+      "gambar4": "trak5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/celana-gunung-pria-waterproof-celana-pria-outdoor-hiking-adventure-qui-m?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": "Celana Gunung dengan Fitur Waterepellent, sudah teruji di alirkan oleh air seperti di atas daun talas. | Note : Celana ini tidak untuk direndam dengan deterjen dan digunakan pada saat hujan deras intensitas tinggi. | Celana Keren dapat digunakan pada saat hiking, trekking, outdoor ataupun event lain seperti OUTBOND, Team Building, Jalan-Jalan, Camping dan Kegiatan sehari-hari juga cocok dan keren, Eksklusif dengan material bahan Waterepellent (anti air) seperti diatas daun talas, kamu tidak usah khawatir takut basah, Terdapat karet di bagian pinggang untuk kenyamanan walau tanpa ikat pinggang, Design yang simple & stylish sehingga cocok digunakan untuk siapa saja dan dapat digunakan dimana saja, Bahannya yang ringan dan pinggangnya yang fleksibel memudahkan kamu melangkahkan kaki menuju puncak tertinggi gunung yang kamu naiki, Cocok untuk kamu yang suka beraktifitas diluar maupun di dalam ruangan, Di desain casual trendy fit berbahan anti air yang tidak panas dan nyaman saat digunakan. | Size: M > Panjang ± 100cm lingkar pinggang ± 80cm bisa melar lingkar paha ± 30cm, L > Panjang ± 110cm lingkar pinggang ± 85cm bisa melar lingkar paha ± 40cm, XL > Panjang ± 120cm lingkar pinggang ± 90cm bisa melar lingkar paha ± 50cm. | Detail: M = 28-30, L = 31-33, XL= 33-35. | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 3,
+        "nama": "Celana Treking Pria"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Celana Cargo Pendek | Fashion Celana Pria | Celana Keren Trendy",
+      "harga": 132000,
+      "is_ready": true,
+      "thumbnail": "cargo1.jpg",
+      "gambar1": "cargo2.jpg",
+      "gambar2": "cargo3.jpg",
+      "gambar3": "cargo4.jpg",
+      "gambar4": "cargo5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/celana-cargo-pendek-fashion-celana-pria-celana-keren-trendy-m?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": "Di Buat dengan Bahan Premium sangat nyaman di gunakan, Cocok untuk penggunaan dalam/luar ruangan, Cocok untuk acara santai dan untuk Berpergian, Menggunakan Pola Reguler menjadi sehingga memberikan kesan Rapi dan Nyaman, Bahan Sejuk (Breathable) tidak membuat Gerah. | Size: M > panjang ± 54cm lingkar pinggang ± 38cm bisa melar lingkar paha ± 24cm, L > panjang ± 56cm lingkar pinggang ± 40cm bisa melar lingkar paha ± 25cm, XL >panjang ± 58cm lingkar pinggang ± 41,5cm bisa melar lingkar paha ± 26,5cm. | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 4,
+        "nama": "Celana Cargo Pendek Pria"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Turtleneck Import Sweater Wanita | Rajutan Baju sweater Atasan rajutan",
+      "harga": 130000,
+      "is_ready": true,
+      "thumbnail": "wanita1.jpg",
+      "gambar1": "wanita2.jpg",
+      "gambar2": "wanita3.jpg",
+      "gambar3": "wanita4.jpg",
+      "gambar4": "wanita5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/turtleneck-import-sweater-wanita-rajutan-baju-sweater-atasan-rajutan-biru?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": "Warna : Biru, Aprikot, Putih | Ukuran Turtle : Panjang Pakaian: 60cm, Panjang Lengan: 59cm, Lebar Bahu: 45cm, Lingkar Dada: 75-120cm (Melar). |  Ukuran Line: Panjang Pakaian:55cm, Panjang Lengan:54cm, Lebar Bahu:30cm, Lingkar Dada:66-100cm (Melar). | Ukuran V: Panjang Pakaian:56cm, Panjang Lengan:54cm, Lebar Bahu:29cm, Lingkar Dada:68-100cm (Melar). | Karena Perbedaan cara pengukuran, kesalahan mungkin terjadi antara 1-3cm | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 5,
+        "nama": "Pakaian Panjang Wanita"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Tas Selempang Pria ZEN Zeist Black | Tas Slempang Wanita Pria Extra Orga - Army",
+      "harga": 120000,
+      "is_ready": true,
+      "thumbnail": "tasz1.jpg",
+      "gambar1": "tasz2.jpg",
+      "gambar2": "tasz3.jpg",
+      "gambar3": "tasz4.jpg",
+      "gambar4": "tasz5.jpg",
+      "link": "https://www.tokopedia.com/toko-baju-olahraga/tas-selempang-pria-zen-zeist-black-tas-slempang-wanita-pria-extra-orga-army?extParam=src%3Dshop%26whid%3D11263751",
+      "deskripsi": "Tas Selempang Pria ZEN Zeist Black Tas Slempang Wanita Pria Extra Organizer Waistbag UNISEX Trendy. | Waistbag Pria ini adalah tas organizer dengan compartment kecil2 di dalamnya, sehingga dapat memuat banyak barang seperti hp, dompet, kunci, dll. Tas Waistbag ini dapat digunakan untuk kegiatan sehari hari maupun travel. Tas Waistbag ini sangat cocok untuk teman teman yang membawa banyak perlengkapan untuk kegiatannya. Bahan : Cordura Nylon. | Spesifikasi : P : 48 Cm, T : 15 Cm, L : 8 Cm, Full Furing & Busa, Slot Handphone, Slot buat Hansfree Headset, 1 Kantong Utama, 4 Kantong Medium. | Pergi nongkrong bareng temen kalo gak bawa HP, Powerbank, dan Kabel data pasti gak seru. Karena kalo nongkrong pasti sibuk main Game bareng 😣 | NOTE : HARAP MENANNYAKAN STOCK PRODUK SEBELUM MEMBELI JIKA TIDAK AKAN DIKIRIMKAN SECARA RANDOM. TERIMA KASIH",
+      "kategori": {
+        "id": 1,
+        "nama": "Tas Slempang Pria"
+      }
+    }
+  ]
+}

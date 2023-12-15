@@ -1,0 +1,12 @@
+cara buka db.json
+Set-ExecutionPolicy RemoteSigned
+
+
+cara start db.json
+json-server --watch db.json --port=3004
+
+
+cara undo db.json
+Set-ExecutionPolicy Restricted
+
+
