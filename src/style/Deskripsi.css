@@ -1,0 +1,84 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-slider {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.image-slider img {
+  width: 100%;
+  height: auto;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+/* Gaya tombol "prev" dan "next" */
+button.prev,
+button.next {
+  background-color: transparent;
+  border: none;
+  font-size: 24px;
+  color: #000; /* Warna teks */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 0;
+  transition: background-color 0.2s, transform 0.2s; /* Animasi background dan ukuran */
+}
+
+/* Gaya saat tombol dihover */
+button.prev:hover,
+button.next:hover {
+  background-color: #ccc; /* Warna latar belakang saat tombol dihover */
+  transform: scale(1.1); /* Memperbesar tombol saat dihover */
+}
+
+/* Gaya tombol kembali */
+button.back-button {
+  cursor: pointer;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Gaya saat tombol kembali dihover */
+button.back-button:hover {
+  background-color: #ccc;
+  transform: scale(1.1);
+}

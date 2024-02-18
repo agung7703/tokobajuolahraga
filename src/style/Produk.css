@@ -1,0 +1,8 @@
+.kategori-aktif {
+  background: linear-gradient(
+    90deg,
+    rgb(8, 163, 224) 0%,
+    rgb(185, 187, 192) 100%
+  );
+  color: #ffffff;
+}
