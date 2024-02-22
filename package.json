@@ -1,5 +1,5 @@
 {
-  "homepage": "https://agung7703.github.io/tokobajuolahraga.github.io/",
+  "homepage": "https://agung7703.github.io/tokobajuolahraga.github.io.git",
   "name": "tokobajuolahraga",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "main -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
