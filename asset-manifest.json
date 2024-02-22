@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tokobajuolahraga.github.io.git/static/css/main.f3ed54c0.css",
+    "main.js": "/tokobajuolahraga.github.io.git/static/js/main.4c197ae8.js",
+    "static/js/787.b35a33f8.chunk.js": "/tokobajuolahraga.github.io.git/static/js/787.b35a33f8.chunk.js",
+    "static/media/ppsmt3.jpg": "/tokobajuolahraga.github.io.git/static/media/ppsmt3.333eba62b56894e81e2b.jpg",
+    "static/media/banner3.png": "/tokobajuolahraga.github.io.git/static/media/banner3.7a0d995e0629e48cc257.png",
+    "static/media/trak1.jpg": "/tokobajuolahraga.github.io.git/static/media/trak1.f6ae67fe250d27ef7a2b.jpg",
+    "index.html": "/tokobajuolahraga.github.io.git/index.html",
+    "main.f3ed54c0.css.map": "/tokobajuolahraga.github.io.git/static/css/main.f3ed54c0.css.map",
+    "main.4c197ae8.js.map": "/tokobajuolahraga.github.io.git/static/js/main.4c197ae8.js.map",
+    "787.b35a33f8.chunk.js.map": "/tokobajuolahraga.github.io.git/static/js/787.b35a33f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ed54c0.css",
+    "static/js/main.4c197ae8.js"
+  ]
+}
