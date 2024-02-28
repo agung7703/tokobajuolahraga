@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/tokobajuolahraga/static/css/main.b580273a.css",
-    "main.js": "/tokobajuolahraga/static/js/main.864c17da.js",
+    "main.js": "/tokobajuolahraga/static/js/main.13959cd4.js",
     "static/js/787.b35a33f8.chunk.js": "/tokobajuolahraga/static/js/787.b35a33f8.chunk.js",
     "static/media/ppsmt3.jpg": "/tokobajuolahraga/static/media/ppsmt3.333eba62b56894e81e2b.jpg",
     "static/media/banner3.png": "/tokobajuolahraga/static/media/banner3.7a0d995e0629e48cc257.png",
     "static/media/trak1.jpg": "/tokobajuolahraga/static/media/trak1.f6ae67fe250d27ef7a2b.jpg",
     "index.html": "/tokobajuolahraga/index.html",
     "main.b580273a.css.map": "/tokobajuolahraga/static/css/main.b580273a.css.map",
-    "main.864c17da.js.map": "/tokobajuolahraga/static/js/main.864c17da.js.map",
+    "main.13959cd4.js.map": "/tokobajuolahraga/static/js/main.13959cd4.js.map",
     "787.b35a33f8.chunk.js.map": "/tokobajuolahraga/static/js/787.b35a33f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b580273a.css",
-    "static/js/main.864c17da.js"
+    "static/js/main.13959cd4.js"
   ]
 }
